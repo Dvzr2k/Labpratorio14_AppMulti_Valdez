@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nwAPhZ7wgnv2SmyPH997WfM150ML+TPjAaGRq529we70sUO5Qp0O+FPNrmfiuh6jNWKeB2QxMzkz/dkgASdp/w==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\diegu\\Source\\Repos\\Laboratorio14DesAppMulti_Valdez\\Laboratorio14DesAppMulti_Valdez\\Laboratorio14DesAppMulti_Valdez.iOS\\Laboratorio14DesAppMulti_Valdez.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diegu\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\diegu\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\diegu\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
